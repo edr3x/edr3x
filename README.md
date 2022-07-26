@@ -14,6 +14,7 @@
 <code><img height="30" src="assets/ts.png"></code>
 <code><img height="30" src="assets/express.png"></code>
 <code><img height="30" src="assets/git.png"></code>
+<code><img height="30" src="assets/c.png"></code>
 <code><img height="30" src="assets/vim.png"></code>
 <code><img height="30" src="assets/mongo.png"></code>
 
@@ -23,7 +24,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edr3x&layout=compact&theme=dark" />
 </a>
 
-</br> </br>
+</br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EDR3X&theme=dark" alt="EDR3X" /></p>
 
