@@ -20,8 +20,8 @@
 
 ## 📑 GitHub Analytics
 
-<a href="https://edr3x.com.np">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edr3x&layout=compact&theme=dark" />
+<a href="https://EDR3X.com.np">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDR3X&layout=compact&theme=dark" />
 </a>
 
 </br>
