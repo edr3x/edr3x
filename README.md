@@ -24,7 +24,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDR3X&layout=compact&theme=dark" />
 </a>
 
-</br>
+</br> </br>
 
 <a href="https://anujdhungana.com.np">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EDR3X&theme=dark" alt="EDR3X" /></p>
