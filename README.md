@@ -7,16 +7,17 @@
 
 ## ⚙️ Skills
 
-<code><img height="30" src="assets/flutter.png"></code>
-<code><img height="30" src="assets/dart.png"></code>
-<code><img height="30" src="assets/bloc.png"></code>
-<code><img height="30" src="assets/firebase.png"></code>
-<code><img height="30" src="assets/ts.png"></code>
-<code><img height="30" src="assets/express.png"></code>
-<code><img height="30" src="assets/git.png"></code>
-<code><img height="30" src="assets/c.png"></code>
-<code><img height="30" src="assets/vim.png"></code>
-<code><img height="30" src="assets/mongo.png"></code>
+<code><img height="30" src="assets/c.png" title="C"></code>
+<code><img height="30" src="assets/dart.png" title="Dart"></code>
+<code><img height="30" src="assets/flutter.png" title="Flutter"></code>
+<code><img height="30" src="assets/bloc.png" title="Flutter BLoC"></code>
+<code><img height="30" src="assets/ts.png" title="TypeScript"></code>
+<code><img height="30" src="assets/firebase.png" title="Firebase"></code>
+<code><img height="30" src="assets/express.png" title="Express.js"></code>
+<code><img height="30" src="assets/mongo.png" title="MongoDB"></code>
+<code><img height="30" src="assets/postgre.png"  title="PostgreSQL"></code>
+<code><img height="30" src="assets/git.png"  title="Git"></code>
+<code><img height="30" src="assets/vim.png"  title="Vim"></code>
 
 ## 📑 GitHub Analytics
 
