@@ -21,15 +21,9 @@
 
 ## 📑 GitHub Analytics
 
-<a href="https://anujdhungana.com.np">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDR3X&layout=compact&theme=dark" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edr3x&layout=compact&theme=dark&hide=cmake,html)](https://anujdhungana.com.np)
 
-</br> </br>
-
-<a href="https://anujdhungana.com.np">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EDR3X&theme=dark" alt="EDR3X" /></p>
-</a>
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=EDR3X&theme=dark)](https://anujdhungana.com.np)
 
 ## 🤙 Contact
 
