@@ -21,7 +21,7 @@
 
 ## 📑 GitHub Analytics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edr3x&layout=compact&theme=dark&hide=cmake,html)](https://anujdhungana.com.np)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edr3x&layout=compact&theme=dark&hide=cmake,html,c%2B%2B)](https://anujdhungana.com.np)
 
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=EDR3X&theme=dark)](https://anujdhungana.com.np)
 
