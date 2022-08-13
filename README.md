@@ -1,6 +1,6 @@
 # Hi, I am Anuj
 
-## 📖 About me
+## 📑 About me
 
 - Computer Science Student at Tribhuvan University
 - Working with Flutter and Node.js
@@ -15,9 +15,13 @@
 <code><img height="30" src="assets/firebase.png" title="Firebase"></code>
 <code><img height="30" src="assets/express.png" title="Express.js"></code>
 <code><img height="30" src="assets/mongo.png" title="MongoDB"></code>
-<code><img height="30" src="assets/postgre.png"  title="PostgreSQL"></code>
 <code><img height="30" src="assets/git.png"  title="Git"></code>
 <code><img height="30" src="assets/vim.png"  title="Vim"></code>
+
+### 📖 Currently Learning
+
+<code><img height="30" src="assets/postgre.png"  title="PostgreSQL"></code>
+<code><img height="30" src="assets/rs.png"  title="PUST"></code>
 
 ## 📑 GitHub Analytics
 
