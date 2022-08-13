@@ -30,6 +30,8 @@
 
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=EDR3X&theme=dark)](https://anujdhungana.com.np)
 
+![Profile Views](https://komarev.com/ghpvc/?username=edr3x&color=orange)
+
 ## 🤙 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-dhungana-a1535b227/)
