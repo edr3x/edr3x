@@ -16,7 +16,7 @@
 <code><img height="30" src="assets/express.png" title="Express.js"></code>
 <code><img height="30" src="assets/mongo.png" title="MongoDB"></code>
 <code><img height="30" src="assets/git.png"  title="Git"></code>
-<code><img height="30" src="assets/vim.png"  title="Vim"></code>
+<code><img height="30" src="assets/nvim.png"  title="Neovim"></code>
 
 ### 📖 Currently Learning
 
