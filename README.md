@@ -14,13 +14,13 @@
 <code><img height="30" src="assets/ts.png" title="TypeScript"></code>
 <code><img height="30" src="assets/firebase.png" title="Firebase"></code>
 <code><img height="30" src="assets/express.png" title="Express.js"></code>
+<code><img height="30" src="assets/postgre.png"  title="PostgreSQL"></code>
 <code><img height="30" src="assets/mongo.png" title="MongoDB"></code>
 <code><img height="30" src="assets/git.png"  title="Git"></code>
 <code><img height="30" src="assets/nvim.png"  title="Neovim"></code>
 
 ### 📖 Currently Learning
 
-<code><img height="30" src="assets/postgre.png"  title="PostgreSQL"></code>
 <code><img height="30" src="assets/rs.png"  title="RUST"></code>
 <code><img height="30" src="assets/arch.webp"  title="Arch"></code>
 
