@@ -3,7 +3,7 @@
 ## 📑 About me
 
 - Computer Science Student at Tribhuvan University
-- Working with Flutter and Node.js
+- Working with Flutter, Node.js and GO
 
 ## ⚙️ Skills
 
@@ -12,7 +12,7 @@
 <code><img height="30" src="assets/flutter.png" title="Flutter"></code>
 <code><img height="30" src="assets/bloc.png" title="Flutter BLoC"></code>
 <code><img height="30" src="assets/ts.png" title="TypeScript"></code>
-<code><img height="30" src="assets/firebase.png" title="Firebase"></code>
+<code><img height="30" src="assets/go.png" title="GO"></code>
 <code><img height="30" src="assets/express.png" title="Express.js"></code>
 <code><img height="30" src="assets/postgre.png"  title="PostgreSQL"></code>
 <code><img height="30" src="assets/mongo.png" title="MongoDB"></code>
