@@ -22,7 +22,6 @@
 ### 📖 Currently Learning
 
 <code><img height="30" src="assets/rs.png"  title="RUST"></code>
-<code><img height="30" src="assets/arch.webp"  title="Arch"></code>
 
 ## 📑 GitHub Analytics
 
