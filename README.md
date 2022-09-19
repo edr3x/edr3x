@@ -25,7 +25,7 @@
 
 ## 📑 GitHub Analytics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edr3x&layout=compact&theme=dark&hide=cmake,html,c%2B%2B)](https://anujdhungana.com.np)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edr3x&layout=compact&theme=dark&hide=cmake,css,html,c%2B%2B)](https://anujdhungana.com.np)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=edr3x&color=orange)
 
