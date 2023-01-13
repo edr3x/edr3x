@@ -7,21 +7,29 @@
 
 ## ⚙️ Skills
 
-<code><img height="30" src="assets/c.png" title="C"></code>
-<code><img height="30" src="assets/dart.png" title="Dart"></code>
-<code><img height="30" src="assets/flutter.png" title="Flutter"></code>
-<code><img height="30" src="assets/bloc.png" title="Flutter BLoC"></code>
-<code><img height="30" src="assets/ts.png" title="TypeScript"></code>
-<code><img height="30" src="assets/go.png" title="GO"></code>
-<code><img height="30" src="assets/express.png" title="Express.js"></code>
-<code><img height="30" src="assets/postgre.png"  title="PostgreSQL"></code>
-<code><img height="30" src="assets/mongo.png" title="MongoDB"></code>
-<code><img height="30" src="assets/git.png"  title="Git"></code>
-<code><img height="30" src="assets/nvim.png"  title="Neovim"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/45848083/212284447-6f4c2238-8d36-4a23-9af6-d84581a6f9e4.png" title="C"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/45848083/212289762-0acefd4c-01e4-4eea-81e6-1030e8c50dc9.png" title="Lua"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/45848083/212284913-772215b6-7080-4056-8f0a-19d05d905935.png" title="GO"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/45848083/212284835-53fd36f6-84e0-4553-b075-c1d05fd2803d.png" title="TypeScript"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/45848083/212284662-0bb804e9-58d7-456b-9204-1a4ba84073e7.png" title="Dart"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/45848083/212284749-78002dd4-2a06-46bb-bbba-fb230266a5b7.png" title="Flutter"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/45848083/212288103-1a261733-db0e-4935-a327-87c704eb14a4.png" title="Node.js"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/45848083/212284986-dd97c418-90a6-4bf6-bb76-e679e590a0bd.png" title="Express.js"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" title="Nest.js"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/45848083/212285041-399c0a6f-837e-4891-af31-afb0893e2041.png"  title="PostgreSQL"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/45848083/212285101-4214a160-e342-43e6-987b-22a226c42377.png" title="MongoDB"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/45848083/212289168-1e35e739-93eb-473a-8016-01762090afa5.png" title="Redis"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/45848083/212286682-dffea254-b121-4e12-b98a-f6119ad70407.png" title="Docker"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/45848083/212285184-b43a5c38-b268-4907-85cd-38c1e422af97.png"  title="Git"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/45848083/212290230-27f58b00-f3c2-49e3-bbcb-5dc263303779.png"  title="gRPC"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"  title="Linux"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/45848083/212285235-12df7472-727f-485c-b30b-e72da47e0277.png"  title="Neovim"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"  title="Photoshop"></code>
 
 ### 📖 Currently Learning
 
-<code><img height="30" src="assets/rs.png"  title="RUST"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/45848083/212285291-fd6b724b-6803-45dc-aaff-9c6a8954edf5.png"  title="RUST"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/45848083/212290652-81015d8d-8b8b-479d-b5e3-924ce3f95dd4.png"  title="Kubernetes"></code>
 
 ## 📑 GitHub Analytics
 
