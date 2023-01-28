@@ -29,6 +29,8 @@
 ### 📖 Currently Learning
 
 <code><img height="30" src="https://user-images.githubusercontent.com/45848083/212285291-fd6b724b-6803-45dc-aaff-9c6a8954edf5.png"  title="RUST"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/45848083/215262990-3e8a1245-d9c8-4690-bc75-6492184ad4d7.png" title="RabbitMQ"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/45848083/215263272-343e6b72-613c-4975-9b3c-08c425c09026.png"  title="Nginx"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/45848083/212290652-81015d8d-8b8b-479d-b5e3-924ce3f95dd4.png"  title="Kubernetes"></code>
 
 ## 📑 GitHub Analytics
