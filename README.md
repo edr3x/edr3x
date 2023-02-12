@@ -33,7 +33,7 @@
 <code><img height="30" src="https://user-images.githubusercontent.com/45848083/215263272-343e6b72-613c-4975-9b3c-08c425c09026.png"  title="Nginx"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/45848083/212290652-81015d8d-8b8b-479d-b5e3-924ce3f95dd4.png"  title="Kubernetes"></code>
 
-## 📑 GitHub Analytics
+## 📑 Analytics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edr3x&layout=compact&theme=dark&hide=cmake,css,html,c%2B%2B)](https://anujdhungana.com.np)
 
