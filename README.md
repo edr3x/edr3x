@@ -2,7 +2,7 @@
 
 I am Anuj, a Computer Science student and a self-taught Backend Developer based on Kathmandu, Nepal.
 
-I am currently seeking good opportunities of working on microservices and k8s.
+I am currently seeking good opportunities for working on microservices and k8s.
 
 ## ⚙️ Thinks I can do
 
