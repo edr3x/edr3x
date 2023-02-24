@@ -1,8 +1,8 @@
 ##  Hello There! 👋
 
-I am Anuj, a Computer Science student and a self-taught Backend Developer based on Kathmandu, Nepal.
+I am Anuj, a Computer Science student and a self-taught Backend Developer based on Kathmandu, Nepal
 
-I am currently seeking good opportunities for working on microservices and k8s.
+I am currently seeking good opportunities for working on Backend Web Development
 
 ## ⚙️ Thinks I can do
 
@@ -16,13 +16,15 @@ I am currently seeking good opportunities for working on microservices and k8s.
 
 ### 🖼️ Frameworks
 
-<code><a href="https://flutter.dev/"><img height="30" src="https://user-images.githubusercontent.com/45848083/212284749-78002dd4-2a06-46bb-bbba-fb230266a5b7.png" title="Flutter"></a></code>
 <code><a href="https://expressjs.com/"><img height="30" src="https://user-images.githubusercontent.com/45848083/212284986-dd97c418-90a6-4bf6-bb76-e679e590a0bd.png" title="Express.js"></a></code>
 <code><a href="https://nestjs.com/"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" title="Nest.js"></a></code>
 <code><a href="https://gin-gonic.com/"><img height="30" src="https://user-images.githubusercontent.com/45848083/218448463-0a2b9abb-5b5f-4ce4-bfd4-a2762ed149a4.png" title="Gin"></a></code>
+<code><a href="https://actix.rs/"><img height="30" src="https://user-images.githubusercontent.com/45848083/221181766-e5ceb08b-721e-439d-9e26-47233974f0b1.png" title="Actix"></a></code>
+<code><a href="https://flutter.dev/"><img height="30" src="https://user-images.githubusercontent.com/45848083/212284749-78002dd4-2a06-46bb-bbba-fb230266a5b7.png" title="Flutter"></a></code>
 <code><a href="https://beta.reactjs.org/"><img height="30" src="https://user-images.githubusercontent.com/45848083/218449391-b7c39d3a-95ad-4e2b-82c1-66acb8536820.png" title="React"></a></code>
 
-### 🤹 Other skills
+
+### 🤹 Other Tools
 
 <code><a href="https://www.postgresql.org/"><img height="30" src="https://user-images.githubusercontent.com/45848083/212285041-399c0a6f-837e-4891-af31-afb0893e2041.png"  title="PostgreSQL"></a></code>
 <code><a href="https://www.mongodb.com/"><img height="30" src="https://user-images.githubusercontent.com/45848083/212285101-4214a160-e342-43e6-987b-22a226c42377.png" title="MongoDB"></a></code>
@@ -42,7 +44,7 @@ I am currently seeking good opportunities for working on microservices and k8s.
 <code><a href="https://grpc.io/"><img height="30" src="https://user-images.githubusercontent.com/45848083/212290230-27f58b00-f3c2-49e3-bbcb-5dc263303779.png"  title="gRPC"></a></code>
 <code><a href="https://kubernetes.io/"><img height="30" src="https://user-images.githubusercontent.com/45848083/212290652-81015d8d-8b8b-479d-b5e3-924ce3f95dd4.png"  title="Kubernetes"></a></code>
 
-###  Things I do for fun
+### 🖥️ Things I do for fun
 
 - 🖥️ Gaming
 - ⌨️ Coding
