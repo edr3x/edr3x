@@ -5,13 +5,13 @@
 <p align="center">
 <a href="#">
     <img src="https://skillicons.dev/icons?i=ts,nodejs,express,nestjs,go,graphql,prisma,mongodb,postgres,redis,postman,docker,neovim,bash,linux" />
-   <img src="https://skillicons.dev/icons?i=react,redux,sass,tailwind,dart,flutter,git,actix,lua,md,ps" />
+   <img src="https://skillicons.dev/icons?i=react,redux,sass,tailwind,dart,flutter,nginx,git,actix,lua,md,ps" />
 </a>
 </p>
 
 ### 📖 Currently Exploring
 
-[![My Skills](https://skillicons.dev/icons?i=rust,rabbitmq,nginx,kubernetes)](#)
+[![My Skills](https://skillicons.dev/icons?i=rust,rabbitmq,kafka,kubernetes)](#)
 
 ## 📑 Analytics
 
