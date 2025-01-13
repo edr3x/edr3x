@@ -4,14 +4,14 @@
 ## ⚙️ Tech i work with
 <p align="center">
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,express,nestjs,go,graphql,mongodb,postgres,redis,docker,rabbitmq,kafka,neovim,bash,linux" />
-    <img src="https://skillicons.dev/icons?i=react,dart,flutter,postman,nginx,git,actix,prometheus,grafana,ansible,lua,md,ps" />
+    <img src="https://skillicons.dev/icons?i=go,ts,nodejs,express,actix,lua,graphql,sqlite,postgres,mongodb,redis,rabbitmq,kafka,nginx" />
+    <img src="https://skillicons.dev/icons?i=linux,arch,neovim,bash,githubactions,docker,kubernetes,ansible,postman,git,prometheus,grafana,md" />
 </a>
 </p>
 
 ### 📖 Currently Exploring
 
-[![My Skills](https://skillicons.dev/icons?i=rust,wasm,kubernetes,aws)](#)
+[![My Skills](https://skillicons.dev/icons?i=rust,wasm,aws)](#)
 
 ## 📑 Analytics
 
