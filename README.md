@@ -1,17 +1,17 @@
 <h1 align="center">Hi there, I'm Anuj! 👋</h1>
-<p align="center">I am a Computer Science student and a self-taught Backend Developer based on Kathmandu, Nepal.</p>
+<p align="center">A self-taught Backend and DevOps Engineer based on Kathmandu, Nepal.</p>
 
 ## ⚙️ Tech i work with
 <p align="center">
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=go,ts,nodejs,express,actix,lua,graphql,sqlite,postgres,mongodb,redis,rabbitmq,kafka,nginx" />
-    <img src="https://skillicons.dev/icons?i=linux,arch,neovim,bash,githubactions,docker,kubernetes,ansible,postman,git,prometheus,grafana,md" />
+    <img src="https://skillicons.dev/icons?i=go,ts,nodejs,express,graphql,sqlite,postgres,mongodb,redis,rabbitmq,kafka,nginx,bash,aws" />
+    <img src="https://skillicons.dev/icons?i=linux,arch,neovim,githubactions,docker,kubernetes,ansible,postman,git,prometheus,grafana,md" />
 </a>
 </p>
 
 ### 📖 Currently Exploring
 
-[![My Skills](https://skillicons.dev/icons?i=rust,wasm,aws)](#)
+[![My Skills](https://skillicons.dev/icons?i=rust,wasm)](#)
 
 ## 📑 Analytics
 
